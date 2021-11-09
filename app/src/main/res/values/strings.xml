@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github Search</string>
+    <string name="hint_username">"Please type username "</string>
+    <string name="error_loading">Error loading data</string>
+    <string name="error">Error</string>
+    <string name="lb_name">name:</string>
+    <string name="lb_size">size:</string>
+    <string name="lb_language">language:</string>
+    <string name="error_length">Username needs to be at least 3 characters long</string>
+    <string name="error_empty_username">Username should not be empty</string>
+    <string name="error_username_doesnt_exist">Username doesnt exsist</string>
+    <string name="lb_watchers">Watchers count:</string>
+    <string name="lb_stars">Stars:</string>
+    <string name="lb_open_issues">Open issues:</string>
+    <string name="lb_owner">Owner:</string>
+    <string name="btn_back">Back</string>
+    <string name="splash_screen">RareCrew</string>
+</resources>
